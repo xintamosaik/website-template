@@ -1,2 +1,2 @@
 # xintamosaik.github.io
-it is me,
+It is me.
