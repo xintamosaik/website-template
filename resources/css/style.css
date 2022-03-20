@@ -1,11 +1,9 @@
 body {
   background-color: black
+  color: white;
 }
 
 h1 {
-  color: blue;
+  color: yellow;
 }
 
-p {
-  color: green;
-}
